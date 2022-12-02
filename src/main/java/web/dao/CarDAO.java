@@ -7,6 +7,6 @@ import java.util.ArrayList;
 
 public interface CarDAO {
 
-    public ArrayList<Car> cars();
+    ArrayList<Car> getCarsList();
 
 }
